@@ -50,7 +50,10 @@ Aplikasi ini adalah sistem manajemen Bank Sampah dengan Poin Digital yang memung
    ```
    npm install
    ```
-
+3. cd to frontend folder
+   ```
+   NPM install node
+   ```
 3. Buat database MySQL dengan nama `bank_sampah_digital`
 
 4. Konfigurasi file `.env` dengan kredensial database Anda
